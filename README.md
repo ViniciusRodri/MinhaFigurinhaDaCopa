@@ -10,4 +10,4 @@ Application made in React Native, Expo Managed Workflow, Styled Components.
 
 Image Example:
 
-(https://user-images.githubusercontent.com/60937919/198906426-bdce3cf0-3c90-4210-acf8-357aaff22c36.jpeg)
+<img src="https://user-images.githubusercontent.com/60937919/198906426-bdce3cf0-3c90-4210-acf8-357aaff22c36.jpeg" />
